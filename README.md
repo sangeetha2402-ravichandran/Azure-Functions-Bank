@@ -155,7 +155,10 @@ Microsoft Entra ID App Registrations are used in the integration setup to repres
 
 The following screenshot shows separate API and client application registrations used during the banking API integration setup.
 
-![GBank API and client app registrations](images/app-registrations-api-client.png)
+![GBank API and client app registrations](/app-registrations-api-client.png)
+(/af1.png)
+(/af2.png)
+(/af3.png)
 
 A common client-credentials setup uses:
 
@@ -175,13 +178,13 @@ Protected API / APIM / Backend Service
 
 The project also includes an application registration for the Dataverse/Azure Function integration.
 
-![GBank Dataverse Function App Registration](images/entra-gbank-dataverse-function.png)
+![GBank Dataverse Function App Registration](entra-gbank-dataverse-function.png)
 
 The application registration is configured in Microsoft Entra ID and can be used for service-to-service authentication where required.
 
 ### App Registration List
 
-![GBank App Registrations](images/app-registrations-dataverse-function.png)
+![GBank App Registrations](app-registrations-dataverse-function.png)
 
 ## Authentication Approach
 
