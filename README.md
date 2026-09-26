@@ -156,9 +156,9 @@ Microsoft Entra ID App Registrations are used in the integration setup to repres
 The following screenshot shows separate API and client application registrations used during the banking API integration setup.
 
 ![GBank API and client app registrations](/app-registrations-api-client.png)
-(/af1.png)
-(/af2.png)
-(/af3.png)
+![GBank API and client app registrations](/af1.png)
+![GBank API and client app registrations](/af2.png)
+![GBank API and client app registrations](/af3.png)
 
 A common client-credentials setup uses:
 
